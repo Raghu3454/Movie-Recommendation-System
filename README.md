@@ -16,7 +16,7 @@ Recommendation systems are widely used in platforms like **Netflix, Amazon Prime
 ---
 ## Project Demo
 
-![Movie Recommendation System](images/demo.png)
+![Movie Recommendation System]("C:\Users\regon\Downloads\Vqcce0xZGvfL3cPrIeixS21WQnKuNToBLJczDsNsXrQ1BsNCbQqECS_BDv_qHHwimvlCsWH0VTY3nQ72Bfnv4o677gkRI_n3x7UkbLznltJScKjeHAbcb_Eg8e741ByBzbTtNUDFK04TEywj6F6ojod8ydqav1OASkk8FhRZQJkOOB7s4EmMjIgKSvj4-N2a.jpg".png)
 ## 🚀 Features
 
 ✔ Recommend similar movies instantly
