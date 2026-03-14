@@ -18,8 +18,11 @@ Recommendation systems are widely used in platforms like **Netflix, Amazon Prime
 ## 🚀 Features
 
 ✔ Recommend similar movies instantly
+
 ✔ Uses machine learning similarity algorithms
+
 ✔ Simple and beginner-friendly project
+
 ✔ Demonstrates how recommendation engines work
 
 ---
