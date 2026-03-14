@@ -14,7 +14,9 @@ This project uses **Content-Based Filtering** and **Cosine Similarity** to recom
 Recommendation systems are widely used in platforms like **Netflix, Amazon Prime, and YouTube** to suggest personalized content.
 
 ---
+## Project Demo
 
+![Movie Recommendation System](images/demo.png)
 ## 🚀 Features
 
 ✔ Recommend similar movies instantly
